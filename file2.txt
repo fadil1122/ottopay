@@ -1,4 +1,4 @@
 Menambah file2.txt
 Menambah baris di file2.txt
-Fiture s
-Fiture B
+Fiture 2
+Fiture A
