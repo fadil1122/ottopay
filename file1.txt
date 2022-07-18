@@ -1,3 +1,4 @@
 Menambah file1.txt
 Menambah baris di file1.txt
 Fiture 1
+Fiture B
