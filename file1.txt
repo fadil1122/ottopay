@@ -3,3 +3,4 @@ Menambah baris di file1.txt
 Fiture 1
 Fiture A
 Fiture B
+Fiture C
