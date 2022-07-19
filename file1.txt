@@ -6,3 +6,4 @@ Fiture B
 Fiture C
 Master
 Rebase
+Squash
